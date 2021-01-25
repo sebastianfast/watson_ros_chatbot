@@ -3,6 +3,14 @@ A simple chatbot using IBM Watson Assistant, IBM Cloud Functions and ROS Noetic 
 
 The chatbot replies with chuck norris jokes and cat facts on demand.
 
+### Example
+
+> You: joke\
+> Bot: Chuck Norris is the only person who can simultaneously hold and fire FIVE Uzis: One in each hand, one in each foot -- and the 5th one he roundhouse-kicks into the air, so that it sprays bullets.\
+>
+> You: fact\
+> Bot: In an average year, cat owners in the United States spend over $2 billion on cat food.
+
 # Usage
 Build this project in your ros favourite environment. I used [devrt/ros-devcontainer-vscode](https://github.com/devrt/ros-devcontainer-vscode) to create a ros devcontainer within VSCode, with adjusted settings.
 
